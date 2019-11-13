@@ -90,8 +90,8 @@
 	</dependencies>
 	<distributionManagement>
   <snapshotRepository>
-    <id>nexus</id>
-    <url>http://13.233.45.18:8081/nexus/content/repositories/nexus</url>
+    <id>snapshots</id>
+ 	<url>http://13.233.45.18:8081/nexus/content/repositories/snapshots</url>
   </snapshotRepository>
 </distributionManagement>
 
